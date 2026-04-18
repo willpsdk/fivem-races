@@ -1,0 +1,19 @@
+.leaderboard-container {
+    position: fixed;
+    width: 1920px;
+    height: 1080px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9997;
+}
+
+.leaderboard-container.hidden {
+    display: none !important;
+}
+
+.leaderboard-image {
+    width: 85%;
+    height: 85%;
+    object-fit: cover;
+}

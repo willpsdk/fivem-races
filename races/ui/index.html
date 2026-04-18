@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Race Builder</title>
+  <link rel="stylesheet" href="fonts.css">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="countdown.css">
+  <link rel="stylesheet" href="checkpoint.css">
+  <link rel="stylesheet" href="leaderboard.css">
+  <link rel="stylesheet" href="player-leaderboard.css">
+</head>
+<body>
+  <div id="countdown-container" class="countdown-container hidden">
+    <img id="countdown-image" src="" alt="Countdown" class="countdown-image">
+  </div>
+  <div id="checkpoint-container" class="checkpoint-container hidden">
+    <div id="checkpoint-text" class="checkpoint-text">0 / 0</div>
+  </div>
+  <div id="leaderboard-container" class="leaderboard-container hidden">
+    <img id="leaderboard-image" src="images/leader.png" alt="Leaderboard" class="leaderboard-image">
+  </div>
+  <div id="player-leaderboard-container" class="player-leaderboard-container hidden">
+    <div class="player-entry" id="player-1">
+      <div class="player-rank">1st</div>
+      <div class="player-name">Placeholder</div>
+    </div>
+    <div class="player-entry" id="player-2">
+      <div class="player-rank">2nd</div>
+      <div class="player-name">Placeholder</div>
+    </div>
+    <div class="player-entry" id="player-3">
+      <div class="player-rank">3rd</div>
+      <div class="player-name">Placeholder</div>
+    </div>
+    <div class="player-entry" id="player-4">
+      <div class="player-rank">4th</div>
+      <div class="player-name">Placeholder</div>
+    </div>
+  </div>
+  <script src="countdown.js"></script>
+  <script src="checkpoint.js"></script>
+  <script src="leaderboard.js"></script>
+  <script src="player-leaderboard.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

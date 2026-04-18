@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net452</TargetFramework>
+    <AssemblyName>races</AssemblyName>
+    <TargetName>$(AssemblyName).net</TargetName>
+    <DebugType>embedded</DebugType>
+    <OutputPath>../bin/</OutputPath>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="MenuAPI">
+      <HintPath>MenuAPI.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <PackageReference Include="CitizenFX.Core.Client" Version="1.0.3394" />
+  </ItemGroup>
+</Project>

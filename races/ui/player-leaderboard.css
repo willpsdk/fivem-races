@@ -1,0 +1,28 @@
+.player-leaderboard-container {
+    position: fixed;
+    z-index: 99999;
+}
+
+.player-leaderboard-container.hidden {
+    display: none !important;
+}
+
+.player-entry {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    position: fixed;
+    z-index: 9997;
+}
+
+.player-rank {
+    display: none;
+}
+
+.player-name {
+    font-family: 'Mont Heavy Demo', sans-serif;
+    color: #ffffff;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

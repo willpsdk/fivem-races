@@ -1,0 +1,8 @@
+C:\Users\w0nk3\Desktop\fibvemserver\txData\FiveMBasicServerCFXDefault_72B838.base\resources\[minigames]\races\bin\races.net.dll
+C:\Users\w0nk3\Desktop\fibvemserver\txData\FiveMBasicServerCFXDefault_72B838.base\resources\[minigames]\races\menuapi\obj\Release\races.csproj.AssemblyReference.cache
+C:\Users\w0nk3\Desktop\fibvemserver\txData\FiveMBasicServerCFXDefault_72B838.base\resources\[minigames]\races\menuapi\obj\Release\races.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w0nk3\Desktop\fibvemserver\txData\FiveMBasicServerCFXDefault_72B838.base\resources\[minigames]\races\menuapi\obj\Release\races.AssemblyInfoInputs.cache
+C:\Users\w0nk3\Desktop\fibvemserver\txData\FiveMBasicServerCFXDefault_72B838.base\resources\[minigames]\races\menuapi\obj\Release\races.AssemblyInfo.cs
+C:\Users\w0nk3\Desktop\fibvemserver\txData\FiveMBasicServerCFXDefault_72B838.base\resources\[minigames]\races\menuapi\obj\Release\races.csproj.CoreCompileInputs.cache
+C:\Users\w0nk3\Desktop\fibvemserver\txData\FiveMBasicServerCFXDefault_72B838.base\resources\[minigames]\races\menuapi\obj\Release\races.csproj.Up2Date
+C:\Users\w0nk3\Desktop\fibvemserver\txData\FiveMBasicServerCFXDefault_72B838.base\resources\[minigames]\races\menuapi\obj\Release\races.net.dll

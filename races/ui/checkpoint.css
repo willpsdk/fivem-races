@@ -1,0 +1,35 @@
+.checkpoint-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9998;
+}
+
+.checkpoint-container.hidden {
+    display: none !important;
+}
+
+.checkpoint-text {
+    font-family: 'Mont Heavy Demo', sans-serif;
+    font-size: 72px;
+    font-weight: normal;
+    color: #ffffff;
+    letter-spacing: 2px;
+    white-space: nowrap;
+    animation: checkpointFadeIn 0.4s ease-out;
+}
+
+@keyframes checkpointFadeIn {
+    from {
+        opacity: 0;
+        transform: scale(0.8);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}

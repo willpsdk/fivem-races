@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BrA5vjq5MMM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\w0nk3\\Desktop\\fibvemserver\\txData\\FiveMBasicServerCFXDefault_72B838.base\\resources\\[minigames]\\races\\menuapi\\races.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\w0nk3\\.nuget\\packages\\citizenfx.core.client\\1.0.3394\\citizenfx.core.client.1.0.3394.nupkg.sha512",
+    "C:\\Users\\w0nk3\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\w0nk3\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net452\\1.0.3\\microsoft.netframework.referenceassemblies.net452.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
