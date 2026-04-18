@@ -44,7 +44,7 @@ A comprehensive multi-race framework for FiveM that features race management, ve
 - **Warp Checkpoints** - Teleport points in races
 
 ### Advanced Features
-- XML import from GTA Online race missions
+- Import GTA Online races
 - Checkpoint type detection and conversion
 - Smart vehicle transform tracking across checkpoints
 - Distance-based leaderboard updates
@@ -62,17 +62,12 @@ A comprehensive multi-race framework for FiveM that features race management, ve
 
 2. **Update server.cfg**
    ```
-   ensure [minigames]
    ensure races
    ```
 
-3. **Dependencies**
-   - MenuAPI (included in `bin/MenuAPI.dll`)
-   - fivem-respawn-nearby (automatically managed)
-
 4. **Start the Resource**
    ```
-   /start races
+   /ensure races
    ```
 
 ---
