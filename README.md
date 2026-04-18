@@ -642,12 +642,12 @@ TriggerEvent('racebuilder:propplacerState', isActive)
 ## Support & Credits
 
 **Original Author:** willpsdk  
-**Version:** 4.0.0  
+**Version:** 1.2.0  
 **Framework:** FiveM (ESX/Standalone compatible)
 
 ### Key Systems
 - MenuAPI integration for builder UI
-- GTA Online XML race import support
+- GTA Online race import support
 - Full race persistence with JSON storage
 - Networked multi-player synchronization
 
