@@ -1,4 +1,4 @@
-# Races Framework - v4.0.0
+# Races Framework - v1.2.0
 
 A comprehensive multi-race framework for FiveM that features race management, vehicle transformations, dynamic props, and advanced race building tools.
 
